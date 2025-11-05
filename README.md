@@ -37,18 +37,22 @@ O objetivo é oferecer uma experiência interativa simples e responsiva, demonst
 ou use um servidor local (por exemplo, no terminal):
   python -m http.server
 
-🎯 Funcionalidades
+## 🎯 Funcionalidades
 
 Navegação entre múltiplas páginas
+
 Layout responsivo
+
 Interatividade com JavaScript
+
 Organização simples e intuitiva
 
-📄 Licença
+## 📄 Licença
 
 Este projeto está sob a licença MIT.
+
 Sinta-se livre para usar, estudar e modificar.
 
-🎇 Autor
+## 🎇 Autor
 
 Desenvolvido por Matheus Alexandre
