@@ -38,14 +38,17 @@ ou use um servidor local (por exemplo, no terminal):
   python -m http.server
 
 🎯 Funcionalidades
+
 Navegação entre múltiplas páginas
 Layout responsivo
 Interatividade com JavaScript
 Organização simples e intuitiva
 
 📄 Licença
+
 Este projeto está sob a licença MIT.
 Sinta-se livre para usar, estudar e modificar.
 
 🎇 Autor
+
 Desenvolvido por Matheus Alexandre
